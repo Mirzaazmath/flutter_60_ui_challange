@@ -4,6 +4,25 @@ A new Flutter project.
 
 ## Getting Started
 
+# Screenshot 1
+<img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/UI_1_rating_bar/assets/output/Screenshot1.png" height="400">
+
+# Screenshot 2
+<img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/UI_1_rating_bar/assets/output/Screenshot2.png" height="400">
+
+# Screenshot 3
+<img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/UI_1_rating_bar/assets/output/Screenshot3.png" height="400">
+
+# Screenshot 4
+<img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/UI_1_rating_bar/assets/output/Screenshot4.png" height="400">
+
+# Screenshot 5
+<img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/UI_1_rating_bar/assets/output/Screenshot5.png" height="400">
+
+# Output
+<img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/UI_1_rating_bar/assets/output/result.gif" height="400">
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
