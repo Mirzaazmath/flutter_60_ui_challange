@@ -4,6 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
+# Result
+<img src ="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_3_neo_fitbit_app/assets/output/Screenshot.png" height ="400">
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
