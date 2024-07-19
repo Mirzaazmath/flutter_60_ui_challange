@@ -5,7 +5,14 @@ A new Flutter project.
 # Screenshot 1
 <img src ="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_4_watch_store/assets/output/Screenshot1.png" height="400">
 
-## Getting Started
+# Screenshot 2
+<img src ="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_4_watch_store/assets/output/Screenshot2.png" height="400">
+
+# Result
+<img src ="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_4_watch_store/assets/output/result.gif" height="400">
+
+
+
 
 This project is a starting point for a Flutter application.
 
