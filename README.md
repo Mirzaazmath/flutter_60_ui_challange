@@ -14,5 +14,11 @@ This is Flutter 60 UI Challange
     <td><img src ="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_4_watch_store/assets/output/result.gif" height="400"> </td>
    
   </tr>
+   <tr>
+    <td>UI 5</td>
+     </tr>
+  <tr>
+    <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_5_travel_bag_app/assets/output/result.gif" height="400"></td>
+  </tr>
  </table>
 
