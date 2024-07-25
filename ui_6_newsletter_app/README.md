@@ -2,7 +2,22 @@
 
 A new Flutter project.
 
-## Getting Started
+
+# ScreenShot 1
+<img src ="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_6_newsletter_app/assets/output/Screenshot1.png" height="400">
+
+# ScreenShot 2
+<img src ="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_6_newsletter_app/assets/output/Screenshot2.png" height="400">
+
+# ScreenShot 3
+<img src ="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_6_newsletter_app/assets/output/Screenshot3.png" height="400">
+
+# ScreenShot 4
+<img src ="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_6_newsletter_app/assets/output/Screenshot4.png" height="400">
+
+# Result
+<img src ="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_6_newsletter_app/assets/output/result.gif" height="400">
+
 
 This project is a starting point for a Flutter application.
 
