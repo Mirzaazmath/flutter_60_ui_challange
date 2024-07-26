@@ -2,7 +2,7 @@ This is Flutter 60 UI Challange
 
 <table>
   <tr>
-    <td>UI 1</td>
+     <td>UI 1</td>
      <td>UI 2</td>
     <td>UI 3</td>
      <td>UI 4</td>
@@ -16,9 +16,11 @@ This is Flutter 60 UI Challange
   </tr>
    <tr>
     <td>UI 5</td>
+    <td>UI 6</td>
      </tr>
   <tr>
     <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_5_travel_bag_app/assets/output/result.gif" height="400"></td>
-  </tr>
+    <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_6_newsletter_app/assets/output/result.gif" height="400"></td>
+   </tr>
  </table>
 
