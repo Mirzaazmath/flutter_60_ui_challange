@@ -17,10 +17,13 @@ This is Flutter 60 UI Challange
    <tr>
     <td>UI 5</td>
     <td>UI 6</td>
+     <td>UI 7</td>
      </tr>
   <tr>
     <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_5_travel_bag_app/assets/output/result.gif" height="400"></td>
     <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_6_newsletter_app/assets/output/result.gif" height="400"></td>
+    <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_7_planet_app/assets/output/result.gif" height="400"></td>
+    
    </tr>
  </table>
 
