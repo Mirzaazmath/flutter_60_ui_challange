@@ -27,5 +27,12 @@ This is Flutter 60 UI Challange
     <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_8_coffee_store_app/assets/output/result.gif"height ="400" > </td>
     
    </tr>
+    <tr>
+    <td>UI 9</td>
+   </tr>
+  <tr>
+    <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_9_expense_dashboard/assets/output/Screenshot1.png" height="400"></td>
+  </tr>
+  
  </table>
 
