@@ -10,7 +10,6 @@ A new Flutter project.
 # Screenshot 2
 <img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_9_expense_dashboard/assets/output/Screenshot2.png" height="400">
 
-happy coding
 
 This project is a starting point for a Flutter application.
 
