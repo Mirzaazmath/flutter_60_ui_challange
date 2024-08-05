@@ -11,7 +11,7 @@ A new Flutter project.
 # Result
 <img src ="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_7_planet_app/assets/output/result.gif" height="400">
 
-happy coding 😄 
+
 
 This project is a starting point for a Flutter application.
 
