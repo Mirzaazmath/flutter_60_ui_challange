@@ -3,6 +3,8 @@
 A new Flutter project.
 
 ## Getting Started
+# Screenshot
+<img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_11_file_manager_app/assets/Screenshot.png" height="400">
 
 This project is a starting point for a Flutter application.
 
