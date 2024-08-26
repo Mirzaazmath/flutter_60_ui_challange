@@ -50,9 +50,7 @@ This is Flutter 60 UI Challange
  
  </table>
 
- 
- 
- happy coding 😄 
+
  
 
  
