@@ -6,6 +6,13 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
+
+# Screenshot 
+<img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_15_trading_app/assets/output/Screenshot.png" height="400">
+
+# Result 
+<img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_15_trading_app/assets/output/result.gif" height="400">
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
