@@ -50,7 +50,7 @@ This is Flutter 60 UI Challange
     <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_13_neomorphic_music_player/assets/output/result.gif" height="400"></td>
     <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_14_loan_app_ui/assets/result.gif" height="400"></td>
     <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_15_trading_app/assets/output/result.gif" height="400"> </td>
-      <td><img src="/https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_16_torch_field_login/assets/output/result.gif" height="400"> </td>
+    <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_16_torch_field_login/assets/output/result.gif" height="400"> </td>
     
   </tr>
 
