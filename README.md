@@ -1,4 +1,4 @@
-This is Flutter 60 UI Challange
+jiThis is Flutter 60 UI Challange
 
 <table>
   <tr>
@@ -57,8 +57,6 @@ This is Flutter 60 UI Challange
 
  </table>
 
-
-happy coding 🎊 
  
 
  
