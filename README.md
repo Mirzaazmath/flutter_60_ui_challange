@@ -57,7 +57,7 @@ jiThis is Flutter 60 UI Challange
 
  </table>
 
-
+Happy coding 🎉 
 
  
  
