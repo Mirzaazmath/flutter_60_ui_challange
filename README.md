@@ -55,7 +55,7 @@
   </tr>
    <td>UI 17</td>
      <tr>
-    <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_13_neomorphic_music_player/assets/output/result.gif" height="400"></td>
+    <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_17_task_manager_app/assets/output/result.gif" height ="400"></td>
    
     
   </tr>
