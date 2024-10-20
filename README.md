@@ -1,4 +1,4 @@
-jiThis is Flutter 60 UI Challange
+# This is Flutter 60 UI Challange
 
 <table>
   <tr>
@@ -53,12 +53,32 @@ jiThis is Flutter 60 UI Challange
     <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_16_torch_field_login/assets/output/result.gif" height="400"> </td>
     
   </tr>
+   <td>UI 17</td>
+     <td>UI 18</td>
+      <td>UI 19</td>
+     <tr>
+    <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_17_task_manager_app/assets/output/result.gif" height ="400"></td>
+    <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_18_monster_energy/assets/output/result.gif" height="400"></td> 
+    <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_19_nft_app/assets/output/result.gif" height="400" > </td>
+   
+    
+  </tr>
+    
 
 
  </table>
 
+
+
  
- happy Coding 🎉 
+
+
+
+
+
+
+ 
+
 
  
 
