@@ -68,10 +68,12 @@
   </tr>
 
   <td>UI 21</td>
+   <td>UI 22</td>
     
     
   <tr>
     <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_21_flight_booking_ui/assets/result.gif" height ="400"></td>
+    <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_22_food_menu/assets/output/result.gif" height="400" ></td>
    
   </tr>
 
