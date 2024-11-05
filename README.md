@@ -70,12 +70,14 @@
   <td>UI 21</td>
   <td>UI 22</td>
   <td>UI 23</td>
+  <td>UI 24</td>
     
     
   <tr>
     <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_21_flight_booking_ui/assets/result.gif" height ="400"></td>
     <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_22_food_menu/assets/output/result.gif" height="400" ></td>
     <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_23_protein_app/assets/output/result.gif" height="400" ></td>
+    <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_24_counter_app/assets/output/result.gif" height="400"> </td>
 
 
   </tr>
