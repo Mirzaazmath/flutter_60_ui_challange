@@ -81,8 +81,18 @@
 
 
   </tr>
-
+  
+  <td>UI 25</td>
     
+    
+  <tr>
+    <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_25_wheather_app/assets/output/result.gif" height ="400"></td>
+   
+
+
+  </tr>
+
+  
 
 
  </table>
