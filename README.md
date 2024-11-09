@@ -83,10 +83,13 @@
   </tr>
   
   <td>UI 25</td>
+   <td>UI 26</td>
     
     
   <tr>
     <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_25_wheather_app/assets/output/result.gif" height ="400"></td>
+      <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_26_file_manager/assets/output/result.gif" height ="400"></td>
+    
    
 
 
