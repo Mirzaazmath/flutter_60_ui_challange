@@ -93,12 +93,13 @@
       <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_26_file_manager/assets/output/result.gif" height ="400"></td>
      <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_27_wallet_app/assets/output/result.gif" height ="400"></td>
      <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_28_car_app/assets/output/Screenshot.png" height ="400"></td>
-   
-      
-    
-   
 
+  </tr>
 
+  <td>UI 29</td>    
+  <tr>
+    <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_29_food_delivery_app/assets/output/result.gif" height ="400"></td>
+  
   </tr>
 
   
