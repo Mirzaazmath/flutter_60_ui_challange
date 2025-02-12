@@ -2,7 +2,12 @@
 
 A new Flutter project.
 
+
 ## Getting Started
+
+
+# Output
+<img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_31_money_transfer_app/assets/output/Screenshot.png" height="400">
 
 This project is a starting point for a Flutter application.
 
