@@ -110,6 +110,14 @@
          
   
   </tr>
+    <td>UI 33</td>    
+  
+  <tr>
+    <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/pokemon_slider/assets/output/result.gif" height ="400"></td>
+    
+         
+  
+  </tr>
 
 
  </table>
