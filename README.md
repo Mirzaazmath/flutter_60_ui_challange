@@ -113,11 +113,13 @@
     <td>UI 33</td>    
      <td>UI 34</td>    
      <td>UI 35</td>    
+     <td>UI 36</td>    
   
   <tr>
     <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/pokemon_slider/assets/output/result.gif" height ="400"></td>
      <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_34_parcel_delivery_app/assets/output/result.gif" height ="400"></td>
      <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_35_fitness_tracker/assets/output/result.gif" height ="400"></td>
+     <td><img src ="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_36_3d_flip_card/assets/output/result.gif" height="400"></td>
      
     
     
