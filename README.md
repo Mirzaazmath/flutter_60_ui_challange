@@ -127,10 +127,13 @@
   
   </tr>
    <td>UI 37</td>    
+   <td>UI 38</td>    
    
   
   <tr>
     <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_37_juice_app/assets/output/result.gif" height ="400"></td>
+    <td><img src="https://github.com/Mirzaazmath/flutter_60_ui_challange/blob/main/ui_38_course_app/assets/output/result.gif" height ="400"></td>
+    
     
    </tr>
 
